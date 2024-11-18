@@ -4,4 +4,5 @@
 
 Работа проста нажимайте кнопки медленее быстрее и точка будет замедляться ускоряться
 
-![image](https://github.com/user-attachments/assets/613c871f-1d72-4012-bc86-b9610dc95a2b)
+![image](https://github.com/user-attachments/assets/897a6fb9-a6df-4605-b40b-632f0b95c27f)
+
