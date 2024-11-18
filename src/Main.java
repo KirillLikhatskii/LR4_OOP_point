@@ -9,7 +9,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        JFrame fr=new JFrame("Вращение треугольника вокруг своего центра тяжести");
+        JFrame fr=new JFrame("Ускорение замедление точки");
         fr.setPreferredSize( new Dimension(300,300));
         final JPanel pan= new JPanel();
         fr.add(pan);
